@@ -1,0 +1,48 @@
+{
+  "_nota": "Datos de SIMULACIÓN creados para el prototipo. No proceden del Word original de perfiles. Todas las conversaciones y respuestas son guiones locales: no se envía nada a personas reales.",
+  "likesRecibidos": ["claudia", "daniela", "ainhoa"],
+  "devuelvenLikeTrasUnosSegundos": ["lucia", "martina"],
+  "matchesIniciales": ["valentina", "sofia", "carla"],
+  "chats": {
+    "valentina": {
+      "hora": "21:14",
+      "mensajes": [
+        { "de": "ella", "texto": "¡Hola Juan David! Vi que también te encanta Marvel." },
+        { "de": "yo", "texto": "¡Hola Valentina! Sí, mucho. ¿Has visto la última?" },
+        { "de": "ella", "texto": "Sí, el sábado en el cine de Glòries. La fotografía es una pasada." },
+        { "de": "yo", "texto": "Me la apunto. ¿La vemos juntos en holo-sala?" },
+        { "de": "ella", "texto": "Me parece un buen plan. ¿Hablamos por videollamada antes?" }
+      ]
+    },
+    "sofia": {
+      "hora": "19:02",
+      "mensajes": [
+        { "de": "ella", "texto": "¿Tú también entrenas por la mañana?" },
+        { "de": "yo", "texto": "Casi siempre antes de clase. ¿Y tú?" },
+        { "de": "ella", "texto": "A las 7 en punto. Después, café y fútbol por la tarde." },
+        { "de": "yo", "texto": "Plan perfecto. ¿Del Barça?" },
+        { "de": "ella", "texto": "Obvio. Luego te reto a una partida en PlayStation." }
+      ]
+    },
+    "carla": {
+      "hora": "Ayer",
+      "mensajes": [
+        { "de": "ella", "texto": "Guardians of the Galaxy o Spider-Verse. Elige bien." },
+        { "de": "yo", "texto": "Guardians, por la música." },
+        { "de": "ella", "texto": "Respuesta correcta. Conozco una cafetería en Gràcia con murales increíbles." }
+      ]
+    }
+  },
+  "respuestasRapidas": [
+    "¿Te apetece un café esta semana?",
+    "¿Qué serie estás viendo ahora?",
+    "¡Me encanta tu perfil!"
+  ],
+  "respuestasDeGuion": [
+    "¡Me encantaría! El jueves por la tarde me viene bien.",
+    "Ahora mismo estoy con una serie de ciencia ficción. ¿Me recomiendas algo?",
+    "Jaja, gracias. El tuyo también tiene muy buena vibra.",
+    "Genial, seguimos hablando por aquí."
+  ],
+  "aperturaNuevoMatch": "¡Hola Juan David! Hemos hecho match. Vi que te gusta {interes}."
+}

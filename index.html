@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <meta name="theme-color" content="#0B0815" />
+    <title>VIBRA</title>
+    <link rel="icon" href="./img/logo.png" />
+  </head>
+  <body>
+    <div id="inicio" class="inicio">
+      <div class="tarjeta-inicio">
+        <div class="logo"><img src="./img/logo.png" alt="Logo de VIBRA" /></div>
+        <h1>VIBRA</h1>
+        <p class="texto">
+          Conoce a personas con tus mismos gustos en realidad aumentada. Las valoraciones de citas anteriores deciden
+          a quién ves… y tú puedes decidir si deben hacerlo.
+        </p>
+        <button id="btn-ar" class="primario" disabled>Comprobando realidad aumentada…</button>
+        <button id="btn-demo" class="secundario" disabled>Cargando…</button>
+        <p id="estado-xr" class="nota"></p>
+      </div>
+    </div>
+    <div id="hud" class="hud oculto">
+      <span class="insignia">Modo demostración</span>
+      <span class="ayuda">Arrastra la foto a izquierda o derecha · toca el corazón para el menú</span>
+      <button id="btn-ar2" class="mini oculto">Entrar en RA</button>
+    </div>
+    <script type="module" src="/src/main.ts"></script>
+  </body>
+</html>

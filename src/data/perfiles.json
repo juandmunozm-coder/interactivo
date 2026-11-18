@@ -1,0 +1,418 @@
+[
+  {
+    "id": "juan-david",
+    "name": "Juan David",
+    "age": 21,
+    "group": "principal",
+    "photo": "assets/perfiles/juan-david.png",
+    "photoIsAIGenerated": true,
+    "details": {
+      "Nombre": "Juan David",
+      "Edad": "21 años",
+      "Ubicación": "Barcelona, España",
+      "Altura": "1,74 m",
+      "Ocupación": "Estudiante",
+      "Género": "Masculino",
+      "Orientación": "Heterosexual",
+      "Signo": "Acuario",
+      "Busca": "Relación estable, pero no se cierra a conocer y ver cómo evoluciona.",
+      "Serie favorita": "Re:Zero",
+      "Gustos y actividades": "Ver películas y series; gimnasio, Marvel, películas, arte, PlayStation y fútbol.",
+      "Descripción sugerida": "Estudiante en Barcelona. Disfruta del cine, las series, el arte, los videojuegos y el fútbol. Le gusta mantenerse activo en el gimnasio y conocer personas con intereses en común.",
+      "Vibe Score": "Pendiente de evaluación en la simulación."
+    },
+    "compatibilityPercent": null,
+    "ratings": {},
+    "averageRating": null
+  },
+  {
+    "id": "lucia",
+    "name": "Lucía",
+    "age": 22,
+    "group": "recomendados",
+    "photo": "assets/perfiles/lucia.png",
+    "photoIsAIGenerated": true,
+    "details": {
+      "Vive en": "Barcelona",
+      "Ocupación": "Estudia Comunicación Audiovisual",
+      "Busca": "Relación estable, abierta a conocerse sin prisas",
+      "Compatibilidad con Juan David": "97%",
+      "Intereses": "Cine, series, arte digital, Marvel y fotografía",
+      "Serie o película favorita": "Dark",
+      "Descripción": "Le encanta descubrir películas, visitar exposiciones y hablar de historias de ciencia ficción. Suele ir al gimnasio y disfruta de los planes tranquilos."
+    },
+    "compatibilityPercent": 97,
+    "ratings": {
+      "Comunicación": 4.9,
+      "Puntualidad": 4.7,
+      "Amabilidad": 5.0,
+      "Compatibilidad": 4.9,
+      "Experiencia general": 4.9
+    },
+    "averageRating": 4.88
+  },
+  {
+    "id": "martina",
+    "name": "Martina",
+    "age": 23,
+    "group": "recomendados",
+    "photo": "assets/perfiles/martina.png",
+    "photoIsAIGenerated": true,
+    "details": {
+      "Vive en": "Barcelona",
+      "Ocupación": "Estudia Diseño Gráfico",
+      "Busca": "Pareja estable",
+      "Compatibilidad con Juan David": "96%",
+      "Intereses": "Ilustración, Marvel, videojuegos, cine y arte",
+      "Serie o película favorita": "Spider-Man: Into the Spider-Verse",
+      "Descripción": "Creativa y curiosa. Le gusta dibujar, jugar en PlayStation y visitar museos. Disfruta las conversaciones sobre películas y universos de ficción."
+    },
+    "compatibilityPercent": 96,
+    "ratings": {
+      "Comunicación": 4.8,
+      "Puntualidad": 4.9,
+      "Amabilidad": 4.8,
+      "Compatibilidad": 4.9,
+      "Experiencia general": 4.8
+    },
+    "averageRating": 4.84
+  },
+  {
+    "id": "claudia",
+    "name": "Claudia",
+    "age": 20,
+    "group": "recomendados",
+    "photo": "assets/perfiles/claudia.png",
+    "photoIsAIGenerated": true,
+    "details": {
+      "Vive en": "Barcelona",
+      "Ocupación": "Estudia Psicología",
+      "Busca": "Relación estable, pero sin presión",
+      "Compatibilidad con Juan David": "94%",
+      "Intereses": "Series, anime, fútbol, gimnasio y música",
+      "Serie o película favorita": "Re:Zero",
+      "Descripción": "Le gustan las series con historias intensas y los planes deportivos. Sigue el fútbol y está empezando a entrenar con regularidad."
+    },
+    "compatibilityPercent": 94,
+    "ratings": {
+      "Comunicación": 4.7,
+      "Puntualidad": 4.6,
+      "Amabilidad": 4.9,
+      "Compatibilidad": 4.8,
+      "Experiencia general": 4.8
+    },
+    "averageRating": 4.76
+  },
+  {
+    "id": "valentina",
+    "name": "Valentina",
+    "age": 24,
+    "group": "recomendados",
+    "photo": "assets/perfiles/valentina.png",
+    "photoIsAIGenerated": true,
+    "details": {
+      "Vive en": "Barcelona",
+      "Ocupación": "Trabaja en producción audiovisual",
+      "Busca": "Relación estable",
+      "Compatibilidad con Juan David": "95%",
+      "Intereses": "Cine, fotografía, arte, Marvel y viajes",
+      "Serie o película favorita": "Everything Everywhere All at Once",
+      "Descripción": "Disfruta el cine de ciencia ficción y los proyectos visuales. Le gusta ir a exposiciones, caminar por la ciudad y compartir recomendaciones de películas."
+    },
+    "compatibilityPercent": 95,
+    "ratings": {
+      "Comunicación": 4.9,
+      "Puntualidad": 4.8,
+      "Amabilidad": 4.9,
+      "Compatibilidad": 4.7,
+      "Experiencia general": 4.9
+    },
+    "averageRating": 4.84
+  },
+  {
+    "id": "sofia",
+    "name": "Sofía",
+    "age": 21,
+    "group": "recomendados",
+    "photo": "assets/perfiles/sofia.png",
+    "photoIsAIGenerated": true,
+    "details": {
+      "Vive en": "Barcelona",
+      "Ocupación": "Estudia Ciencias de la Actividad Física",
+      "Busca": "Pareja estable, pero no se cierra a nada",
+      "Compatibilidad con Juan David": "93%",
+      "Intereses": "Gimnasio, fútbol, PlayStation, series y cine",
+      "Serie o película favorita": "The Last of Us",
+      "Descripción": "Deportista y aficionada a los videojuegos. Le gusta entrenar, ver fútbol y pasar una tarde de películas después de una semana ocupada."
+    },
+    "compatibilityPercent": 93,
+    "ratings": {
+      "Comunicación": 4.6,
+      "Puntualidad": 4.8,
+      "Amabilidad": 4.9,
+      "Compatibilidad": 4.8,
+      "Experiencia general": 4.7
+    },
+    "averageRating": 4.76
+  },
+  {
+    "id": "daniela",
+    "name": "Daniela",
+    "age": 22,
+    "group": "recomendados",
+    "photo": "assets/perfiles/daniela.png",
+    "photoIsAIGenerated": true,
+    "details": {
+      "Vive en": "Barcelona",
+      "Ocupación": "Estudia Bellas Artes",
+      "Busca": "Relación estable",
+      "Compatibilidad con Juan David": "92%",
+      "Intereses": "Arte, ilustración, películas, videojuegos y fotografía",
+      "Serie o película favorita": "Your Name",
+      "Descripción": "Le apasiona el arte y la animación. Suele visitar galerías, dibujar y jugar videojuegos narrativos. Valora el sentido del humor y la curiosidad."
+    },
+    "compatibilityPercent": 92,
+    "ratings": {
+      "Comunicación": 4.8,
+      "Puntualidad": 4.5,
+      "Amabilidad": 4.9,
+      "Compatibilidad": 4.7,
+      "Experiencia general": 4.8
+    },
+    "averageRating": 4.74
+  },
+  {
+    "id": "paula",
+    "name": "Paula",
+    "age": 23,
+    "group": "recomendados",
+    "photo": "assets/perfiles/paula.png",
+    "photoIsAIGenerated": true,
+    "details": {
+      "Vive en": "Barcelona",
+      "Ocupación": "Estudia Ingeniería Informática",
+      "Busca": "Relación estable, conociéndose poco a poco",
+      "Compatibilidad con Juan David": "91%",
+      "Intereses": "PlayStation, Marvel, tecnología, series y gimnasio",
+      "Serie o película favorita": "Black Mirror",
+      "Descripción": "Le interesan la tecnología y los videojuegos. Disfruta las películas de superhéroes, entrenar y probar juegos cooperativos."
+    },
+    "compatibilityPercent": 91,
+    "ratings": {
+      "Comunicación": 4.7,
+      "Puntualidad": 4.8,
+      "Amabilidad": 4.6,
+      "Compatibilidad": 4.8,
+      "Experiencia general": 4.7
+    },
+    "averageRating": 4.72
+  },
+  {
+    "id": "carla",
+    "name": "Carla",
+    "age": 21,
+    "group": "recomendados",
+    "photo": "assets/perfiles/carla.png",
+    "photoIsAIGenerated": true,
+    "details": {
+      "Vive en": "Barcelona",
+      "Ocupación": "Estudia Publicidad y Relaciones Públicas",
+      "Busca": "Relación estable",
+      "Compatibilidad con Juan David": "90%",
+      "Intereses": "Cine, Marvel, arte urbano, fútbol y conciertos",
+      "Serie o película favorita": "Guardians of the Galaxy",
+      "Descripción": "Le gustan las películas con humor, la cultura pop y el arte urbano. Sigue algunos partidos de fútbol y suele descubrir cafeterías nuevas."
+    },
+    "compatibilityPercent": 90,
+    "ratings": {
+      "Comunicación": 4.8,
+      "Puntualidad": 4.6,
+      "Amabilidad": 4.8,
+      "Compatibilidad": 4.6,
+      "Experiencia general": 4.7
+    },
+    "averageRating": 4.7
+  },
+  {
+    "id": "nerea",
+    "name": "Nerea",
+    "age": 24,
+    "group": "recomendados",
+    "photo": "assets/perfiles/nerea.png",
+    "photoIsAIGenerated": true,
+    "details": {
+      "Vive en": "Barcelona",
+      "Ocupación": "Trabaja en una galería de arte",
+      "Busca": "Relación estable, pero abierta a conocer",
+      "Compatibilidad con Juan David": "89%",
+      "Intereses": "Arte contemporáneo, cine, fotografía, series y viajes",
+      "Serie o película favorita": "Black Swan",
+      "Descripción": "Le encanta conversar sobre películas, visitar exposiciones y conocer lugares nuevos. Busca una conexión con intereses compartidos y buena comunicación."
+    },
+    "compatibilityPercent": 89,
+    "ratings": {
+      "Comunicación": 4.9,
+      "Puntualidad": 4.7,
+      "Amabilidad": 4.8,
+      "Compatibilidad": 4.5,
+      "Experiencia general": 4.8
+    },
+    "averageRating": 4.74
+  },
+  {
+    "id": "ainhoa",
+    "name": "Ainhoa",
+    "age": 20,
+    "group": "recomendados",
+    "photo": "assets/perfiles/ainhoa.png",
+    "photoIsAIGenerated": true,
+    "details": {
+      "Vive en": "Barcelona",
+      "Ocupación": "Estudia Marketing",
+      "Busca": "Relación estable, sin apresurarse",
+      "Compatibilidad con Juan David": "88%",
+      "Intereses": "Anime, PlayStation, gimnasio, películas y música",
+      "Serie o película favorita": "Attack on Titan",
+      "Descripción": "Disfruta el anime, los videojuegos y las sesiones de cine. Le gusta entrenar y conocer personas con quienes compartir aficiones."
+    },
+    "compatibilityPercent": 88,
+    "ratings": {
+      "Comunicación": 4.6,
+      "Puntualidad": 4.7,
+      "Amabilidad": 4.8,
+      "Compatibilidad": 4.6,
+      "Experiencia general": 4.7
+    },
+    "averageRating": 4.68
+  },
+  {
+    "id": "irene",
+    "name": "Irene",
+    "age": 24,
+    "group": "fuera-de-recomendaciones",
+    "photo": "assets/perfiles/irene.png",
+    "photoIsAIGenerated": true,
+    "details": {
+      "Vive en": "Madrid",
+      "Ocupación": "Trabaja en finanzas",
+      "Busca": "Nada serio",
+      "Compatibilidad con Juan David": "42%",
+      "Intereses": "Compras, gastronomía, moda y eventos sociales",
+      "Serie o película favorita": "Emily in Paris",
+      "Descripción": "Prefiere los planes de compras, restaurantes y eventos. No suele ver anime ni jugar videojuegos y busca algo casual."
+    },
+    "compatibilityPercent": 42,
+    "ratings": {
+      "Comunicación": 2.8,
+      "Puntualidad": 2.7,
+      "Amabilidad": 3.0,
+      "Compatibilidad": 2.4,
+      "Experiencia general": 2.7
+    },
+    "averageRating": 2.72
+  },
+  {
+    "id": "marta",
+    "name": "Marta",
+    "age": 22,
+    "group": "fuera-de-recomendaciones",
+    "photo": "assets/perfiles/marta.png",
+    "photoIsAIGenerated": true,
+    "details": {
+      "Vive en": "Girona",
+      "Ocupación": "Estudia Turismo",
+      "Busca": "Hacer amistades",
+      "Compatibilidad con Juan David": "36%",
+      "Intereses": "Senderismo, naturaleza, lectura y fotografía de paisajes",
+      "Serie o película favorita": "Anne with an E",
+      "Descripción": "Disfruta las excursiones y los planes al aire libre. Prefiere actividades tranquilas y no comparte demasiadas aficiones con Juan David."
+    },
+    "compatibilityPercent": 36,
+    "ratings": {
+      "Comunicación": 2.9,
+      "Puntualidad": 2.8,
+      "Amabilidad": 3.0,
+      "Compatibilidad": 2.2,
+      "Experiencia general": 2.7
+    },
+    "averageRating": 2.72
+  },
+  {
+    "id": "alba",
+    "name": "Alba",
+    "age": 23,
+    "group": "fuera-de-recomendaciones",
+    "photo": "assets/perfiles/alba.png",
+    "photoIsAIGenerated": true,
+    "details": {
+      "Vive en": "Valencia",
+      "Ocupación": "Trabaja en hostelería",
+      "Busca": "Nada serio, solo conocer gente",
+      "Compatibilidad con Juan David": "31%",
+      "Intereses": "Fiestas, música electrónica, festivales y playa",
+      "Serie o película favorita": "Euphoria",
+      "Descripción": "Tiene una vida social muy activa y prefiere salir de fiesta. Sus horarios suelen ser cambiantes y no busca una relación estable."
+    },
+    "compatibilityPercent": 31,
+    "ratings": {
+      "Comunicación": 2.6,
+      "Puntualidad": 2.5,
+      "Amabilidad": 2.9,
+      "Compatibilidad": 2.1,
+      "Experiencia general": 2.5
+    },
+    "averageRating": 2.52
+  },
+  {
+    "id": "sara",
+    "name": "Sara",
+    "age": 21,
+    "group": "fuera-de-recomendaciones",
+    "photo": "assets/perfiles/sara.png",
+    "photoIsAIGenerated": true,
+    "details": {
+      "Vive en": "Tarragona",
+      "Ocupación": "Estudia Nutrición",
+      "Busca": "Lo sigue pensando",
+      "Compatibilidad con Juan David": "28%",
+      "Intereses": "Cocina saludable, running, bienestar y viajes",
+      "Serie o película favorita": "Chef’s Table",
+      "Descripción": "Le gusta correr, cocinar y mantener rutinas saludables. No tiene mucho interés por Marvel, PlayStation o el fútbol y busca descubrir qué quiere."
+    },
+    "compatibilityPercent": 28,
+    "ratings": {
+      "Comunicación": 2.7,
+      "Puntualidad": 2.9,
+      "Amabilidad": 2.8,
+      "Compatibilidad": 2.0,
+      "Experiencia general": 2.6
+    },
+    "averageRating": 2.6
+  },
+  {
+    "id": "laura",
+    "name": "Laura",
+    "age": 25,
+    "group": "fuera-de-recomendaciones",
+    "photo": "assets/perfiles/laura.png",
+    "photoIsAIGenerated": true,
+    "details": {
+      "Vive en": "Madrid",
+      "Ocupación": "Trabaja en moda",
+      "Busca": "Nada serio",
+      "Compatibilidad con Juan David": "24%",
+      "Intereses": "Moda, lujo, fotografía editorial y vida nocturna",
+      "Serie o película favorita": "Gossip Girl",
+      "Descripción": "Le atraen los eventos de moda y la vida nocturna. Tiene poco interés en videojuegos, anime o planes deportivos y prefiere encuentros espontáneos."
+    },
+    "compatibilityPercent": 24,
+    "ratings": {
+      "Comunicación": 2.5,
+      "Puntualidad": 2.4,
+      "Amabilidad": 2.8,
+      "Compatibilidad": 1.9,
+      "Experiencia general": 2.4
+    },
+    "averageRating": 2.4
+  }
+]
