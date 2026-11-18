@@ -24,6 +24,8 @@ jobs:
       - run: npm ci
       - run: npm test
       - run: npm run build
+      - name: Include Free Frequency for Meta Quest
+        run: cp -R Free-frequency-realidad/iwsdk/dist dist/Free-frequency-realidad
       - uses: actions/upload-pages-artifact@v3
         with:
           path: dist
